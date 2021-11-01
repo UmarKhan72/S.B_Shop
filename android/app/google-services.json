@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "577062059422",
+    "project_id": "sb-news-app",
+    "storage_bucket": "sb-news-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577062059422:android:6db3139d189b59cebfea8f",
+        "android_client_info": {
+          "package_name": "com.example.s.bshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577062059422-2b27jvedr2m9hdg2gtdg2tl1q0ekct50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5AwSo_Z8RDsKdmzFflNRn8W0nWOfg4EQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577062059422-2b27jvedr2m9hdg2gtdg2tl1q0ekct50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
